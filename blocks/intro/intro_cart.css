@@ -1,0 +1,8 @@
+.intro_cart {
+    height: 400px;
+    background-image: url(../../images/cart__background.jpg);
+}
+
+.intro_cart__title {
+    margin-top: 64px;
+}

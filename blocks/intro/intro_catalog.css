@@ -1,0 +1,8 @@
+.intro_catalog {
+    height: 400px;
+    background-image: url(../../images/catalog__background.jpg);
+}
+
+.intro_catalog__title {
+    margin-top: 64px;
+}

@@ -1,0 +1,35 @@
+.catalog {
+    max-width: 1200px;
+}
+
+.catalog__link {
+    color: #000;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.catalog__link:hover {
+    text-decoration: none;
+    color: #888;
+}
+
+@media (max-width: 1250px) {
+    .catalog {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+@media (max-width: 570px) {
+    .catalog {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+@media (max-width: 345px) {
+    .catalog {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
